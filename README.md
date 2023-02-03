@@ -24,7 +24,9 @@
 
 #### Contribution Graph
 <!-- Contribution Graph -->
+<!--
 <a href="#">![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=brysampi&bg_color=271f1f&color=fbbe25&line=ffed00&point=ffffff&area=true&count_private=true&)</a>
+-->
 
 <!-- Online Editor -->
 <!-- https://pandao.github.io/editor.md/en.html -->
